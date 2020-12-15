@@ -1,0 +1,25 @@
+C:\Users\pc\Desktop\scattegories\scattegories\obj\x86\Debug\scattegories.Form1.resources
+C:\Users\pc\Desktop\scattegories\scattegories\obj\x86\Debug\scattegories.Properties.Resources.resources
+C:\Users\pc\Desktop\scattegories\scattegories\obj\x86\Debug\scattegories.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\scattegories\scattegories\bin\Debug\scattegories.exe
+C:\Users\pc\Desktop\scattegories\scattegories\bin\Debug\scattegories.pdb
+C:\Users\pc\Desktop\scattegories\scattegories\obj\x86\Debug\scattegories.exe
+C:\Users\pc\Desktop\scattegories\scattegories\obj\x86\Debug\scattegories.pdb
+C:\Users\pc\Desktop\scattegories\scattegories\bin\Debug\Database1.mdf
+C:\Users\pc\Desktop\scattegories\scattegories\bin\Debug\Database1_log.ldf
+C:\Users\pc\Desktop\scattegories\scattegories\bin\Debug\scattegories.exe.config
+C:\Users\pc\Desktop\scattegories\scattegories\obj\x86\Debug\scattegories.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\bin\Debug\scattegories.exe.config
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\obj\x86\Debug\scattegories.exe
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\obj\x86\Debug\scattegories.pdb
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\bin\Debug\Database1.mdf
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\bin\Debug\Database1_log.ldf
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\bin\Debug\scattegories.exe
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\bin\Debug\scattegories.pdb
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\obj\x86\Debug\scattegories.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\obj\x86\Debug\scattegories.Form1.resources
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\obj\x86\Debug\scattegories.Properties.Resources.resources
+C:\Users\pc\Desktop\New folder (2)\scattegories12database\scattegories\obj\x86\Debug\scattegories.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\New folder (2)\scattegories\scattegories\bin\Debug\scattegories.exe.config
+C:\Users\pc\Desktop\New folder (2)\scattegories\scattegories\obj\x86\Debug\scattegories.exe
+C:\Users\pc\Desktop\New folder (2)\scattegories\scattegories\obj\x86\Debug\scattegories.pdb
